@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Bill Evans",
+    "occupation": "Freelance Developer",
+    "description": "Fullstack web development",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Bill! I've been coding for over 5 years now. As a fullstack developer, I've worked on a diverse range of projects.",
+    "contactmessage": "Get in touch with me.",
+    "email": "jergra@yahoo.com",
+    "phone": "123-456-7890",
+    "address": {
+      "street": "777 w 70th av",
+      "city": "Vancouver",
+      "state": "BC",
+      "zip": "V6B 2X2"
+    },
+    "website": "https://jergra.github.io/",
+    "resumedownload": "http://myresume.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqfTh_QAgNlmtF7wzNwHZdA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/billevans432",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/billevans432",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/billevans432/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/billevans432",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Carlisle",
+        "degree": "Bachelor's Degree, Economics",
+        "graduated": "2002",
+        "description": "Graduated with Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Evans Consulting",
+        "title": "Owner",
+        "years": "May 2019 - Present",
+        "description": "Fullstack web development."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Information Feed",
+        "category": "",
+        "image": "infoFeed.png",
+        "url": "https://jg-django.herokuapp.com/"
+      },
+      {
+        "title": "Find YouTube Videos",
+        "category": "",
+        "image": "yt-clone.png",
+        "url": "https://yt-clone-api.web.app/"
+      },
+      {
+        "title": "Wikipedia Picture-of-the-day",
+        "category": "",
+        "image": "wikipediaPic.png",
+        "url": "https://wikipedia-pic.herokuapp.com/"
+      },
+      {
+        "title": "Expenses Tracker",
+        "category": "",
+        "image": "expensesTracker.png",
+        "url": "https://expense-tracker-jergra43.herokuapp.com"
+      },
+      {
+        "title": "Online Store",
+        "category": "",
+        "image": "onlineStore.png",
+        "url": "https://ecommerce-jergra.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Bill is experienced and knowledgeable... I would definitely recommend",
+        "user": "George Curtis"
+      }
+    ]
+  }
+}
