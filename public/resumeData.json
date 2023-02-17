@@ -7,9 +7,9 @@
     "bio": "Hi there! I am Bill! I've been coding for over 5 years now. As a fullstack developer, I've worked on a diverse range of projects.",
     "contactmessage": "Get in touch with me.",
     "email": "jergra@yahoo.com",
-    "phone": "123-456-7891",
+    "phone": "778-986-3554",
     "address": {
-      "street": "777 w 70th av",
+      "street": "103-777 w 70th ave",
       "city": "Vancouver",
       "state": "BC",
       "zip": "V6B 2X2"
@@ -39,7 +39,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/billevans432",
+        "url": "https://github.com/jergra",
         "className": "fa fa-github"
       }
     ]
@@ -69,11 +69,11 @@
       },
       {
         "name": "Python",
-        "level": "65%"
+        "level": "55%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "JavaScript",
