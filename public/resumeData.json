@@ -91,7 +91,7 @@
         "title": "Information Feed",
         "category": "",
         "image": "infoFeed.png",
-        "url": "https://jg-django.herokuapp.com/"
+        "url": "https://info-feed-react-firebase-sass.web.app"
       },
       {
         "title": "Find YouTube Videos",
@@ -100,22 +100,22 @@
         "url": "https://yt-clone-api.web.app/"
       },
       {
-        "title": "Wikipedia Picture-of-the-day",
+        "title": "Wikipedia pic-of-the-day",
         "category": "",
-        "image": "wikipediaPic.png",
-        "url": "https://wikipedia-pic.herokuapp.com/"
+        "image": "wikipedia.png",
+        "url": "http://jergra43.pythonanywhere.com/"
       },
       {
-        "title": "Expenses Tracker",
+        "title": "Real Estate Website",
         "category": "",
-        "image": "expensesTracker.png",
-        "url": "https://expense-tracker-jergra43.herokuapp.com"
+        "image": "realEstate.png",
+        "url": "https://real-estate-nextjs-chakra.vercel.app"
       },
       {
-        "title": "Online Store",
+        "title": "Live News Website",
         "category": "",
-        "image": "onlineStore.png",
-        "url": "https://ecommerce-jergra.herokuapp.com/"
+        "image": "liveNews.png",
+        "url": "https://live-news-nextjs13-stepzen.vercel.app/"
       },
       {
         "title": "Airbnb Clone",
